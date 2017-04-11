@@ -1,6 +1,6 @@
-####ConOps Lite: a quick tool for small software project definition
+#### ConOps Lite: a quick tool for small software project definition
 
-#####Abstract
+##### Abstract
 This document describes a simplified version of the formal engineering product known as a Concept of Operations (ConOps) document that is appropriate for small, academic projects at the level of individual researchers and small research groups. A ConOps is a formal project management document that describes an existing system, justifies the need for a new or modified system, and outlines the proposed features and deployment environment of the new or modified system.
 
 Creation of the ConOps is an important and critical step in large and industrial projects. It provides a common mechanism through which all project participants agree on the scope, goals, and feasibility of the planned work. The ConOps serves as a record of the project objectives and required features of a new system as well as their priority, so it provides a record by which to compare the capabilities of the final product against the initial goals. It is a living document that can and should change over the course of a project and serve as a record of new or changing requirements, false leads in development, or reassessments of feasibility. The creation of a ConOps early in the lifetime of a project of any size has the potential to dramatically reduce the amount of effort wasted by researchers and developers in building useless, unnecessary, or unwanted tools and features.
@@ -9,7 +9,7 @@ The IEEE formally defines the format and content of a ConOps for software develo
 
 This is a shame because a small amount of effort put into project definition early on can save huge amounts of wasted effort later in the project. While project sizes and time scales are often smaller in academia, effort is still wasted because of poor scope definition. If there were a simple template for defining the scope of small research software projects early on, perhaps this wasted effort could be reduced or eliminated.
 
-#####Outline
+##### Outline
 Before you start a new project, you should take the time to go through all of these elements and compose (actually write down) responses to each. Make sure that everyone associated with the project (advisors, collaborators, other potential users or at least a representative sample of potential users) has a pass at the document and approves it before you start writing code.
 
 1. Define what exists. (If anything.)
@@ -34,5 +34,5 @@ Before you start a new project, you should take the time to go through all of th
   * Given the state of the existing software.
   * What can you reuse? (Both developed by you or your group and others).
 
-#####Citations
+##### Citations
 IEEE Std 1362™-1998 (R2007)
